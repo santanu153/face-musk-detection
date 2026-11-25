@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.h5
+dataset/with_mask/*
+!dataset/with_mask/.gitkeep
+dataset/without_mask/*
+!dataset/without_mask/.gitkeep
+dataset/**/*.jpg
+dataset/**/*.jpeg
+dataset/**/*.png
